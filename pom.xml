@@ -19,7 +19,7 @@
     <tianti.version>1.0.0</tianti.version>
     <junit.version>4.12</junit.version>
     <spring.version>4.2.5.RELEASE</spring.version>
-    <hibernate.version>4.3.5.Final</hibernate.version>
+    <hibernate.version>5.4.24.Final</hibernate.version>
     <hibernate.annotations.version>4.0.4.Final</hibernate.annotations.version>
     <mysql.driver.version>5.1.22</mysql.driver.version>
     <shiro.version>1.3.2</shiro.version>
